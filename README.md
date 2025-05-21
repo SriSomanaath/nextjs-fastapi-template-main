@@ -1,5 +1,5 @@
 
-# Next.js FastAPI Template
+# Launch Pad (internal name: OpenCV BrahMos)
 Introducing the Next.js FastAPI Template: A cutting-edge foundation for modern full-stack development that seamlessly integrates Next.js with FastAPI. This template combines Python's backend power with TypeScript's frontend, enhanced by Zod's robust type validation. Perfect for developers seeking a production-ready architecture that balances performance, type safety, and developer experience in one cohesive package.
 
 ## Table of Contents
@@ -473,23 +473,3 @@ make help
 - **Environment Variables**: Ensure your `.env` files are up-to-date.
 - **Database Setup**: It is recommended to use Docker to run the database, even when running the backend and frontend locally, to simplify configuration and avoid potential conflicts.
 - **Consistency**: It is **not recommended** to switch between running the project locally and using Docker, as this may cause permission issues or unexpected problems. You can choose one method and stick with it.
-
-## Contributing
-
-If you wish to contribute to this project, please discuss the change you want to make via an [issue](https://github.com/vintasoftware/nextjs-fastapi-template/issues).
-
-Check our [contributing guide](https://github.com/vintasoftware/nextjs-fastapi-template/blob/main/CONTRIBUTING.md) to learn more about our development process and how you can test your changes to the boilerplate.
-
-## Share your project!
-
-You can use our template to kick-start your project or streamline your efforts to secure funding. Starting with a strong foundation can make your product more resilient and allow you to focus on what matters most: delivering value to your customers.
-
-If our template has been part of your journey, we'd love to hear about it! Share your story with us, and we’ll help spread the word about your project through our social media channels, giving it a broader reach.
-
-Please email us at contact@vintasoftware.com telling us more about how our template helped you boost your project.
-
-## Commercial Support
-
-[![alt text](https://avatars2.githubusercontent.com/u/5529080?s=80&v=4 "Vinta Logo")](https://www.vinta.com.br/)
-
-This project is maintained by [Vinta Software](https://www.vinta.com.br/) and is used in products of Vinta's clients. We are always looking for exciting work! If you need any commercial support, feel free to get in touch: contact@vinta.com.br
